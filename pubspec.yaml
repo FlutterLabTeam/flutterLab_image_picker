@@ -1,0 +1,23 @@
+version: 0.0.1
+name: flutterlab_image_picker
+authors: Jeison Manuel Vargas Vargas.
+description: A new Flutter package project.
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shimmer: ^2.0.0
+  image_picker: ^0.8.5
+  cached_network_image: ^3.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+
+
